@@ -1,0 +1,35 @@
+[
+    {
+        "model": "books.book",
+        "pk": "4a3cef49-5280-49aa-8b0d-e1a58f62212c",
+        "fields": {
+            "title": "book #3",
+            "author": "Jack",
+            "price": "11.00",
+            "date_publication": "2022-11-30",
+            "cover": "covers/DjangoUnleashed.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "90635348-5806-4b5d-bce3-fe78b0a61598",
+        "fields": {
+            "title": "2nd book",
+            "author": "Jones",
+            "price": "14.00",
+            "date_publication": "2022-11-21",
+            "cover": "covers/Lightweight.jpg"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "aceae255-e7ea-4e96-ab9a-914bc08a9985",
+        "fields": {
+            "title": "first book",
+            "author": "John",
+            "price": "12.00",
+            "date_publication": "2022-11-14",
+            "cover": "covers/PythonCookbook.jpg"
+        }
+    }
+]
